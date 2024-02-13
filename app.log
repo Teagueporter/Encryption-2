@@ -448,3 +448,4 @@ SELECT "a"."Id", "a"."ClaimType", "a"."ClaimValue", "a"."UserId"
 FROM "AspNetUserClaims" AS "a"
 WHERE "a"."UserId" = @__user_Id_0
 Information: User logged in.
+Information: Application is shutting down...
